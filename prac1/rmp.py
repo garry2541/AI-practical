@@ -3,6 +3,8 @@ dict_hn={'Arad':336,'Bucharest':0,'Craiova':160,'Drobeta':242,'Eforie':161,
          'Mehadia':241,'Neamt':234,'Oradea':380,'Pitesti':100,'Rimnicu':193,
          'Sibiu':253,'Timisoara':329,'Urziceni':80,'Vaslui':199,'Zerind':374}
 
+
+
 dict_gn=dict(
 Arad=dict(Zerind=75,Timisoara=118,Sibiu=140),
 Bucharest=dict(Urziceni=85,Giurgiu=90,Pitesti=101,Fagaras=211),
